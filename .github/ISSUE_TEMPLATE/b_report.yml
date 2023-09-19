@@ -1,7 +1,5 @@
-name: Issue with the PC release of Starfield on Steam
-description: This issue is being reported from the PC release of Starfield on Steam
-labels: ["Platform: PC (Steam)"]
-projects: ["Main Project"]
+name: Issue
+description: Bugs and errors in the game
 body:
   - type: markdown
     attributes:
@@ -11,6 +9,16 @@ body:
         * New content (new quests, missions, characters, items, etc)
         * Balance changes (outside of correcting obvious errors)
         * Any tweaks that are not inkeeping with the original vision for game
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Which platform are you playing on?
+      options:
+      - PC (Steam)
+      - PC (Xbox Game Pass)
+      - Xbox
+    validations:
+      required: true
   - type: dropdown
     id: dlcs
     attributes:
