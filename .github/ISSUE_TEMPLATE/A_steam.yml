@@ -1,0 +1,77 @@
+name: Issue with the PC release of Starfield on Steam
+description: This issue is being reported from the PC release of Starfield on Steam
+labels: ["Platform: PC (Steam)"]
+projects: ["Main Project"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Remember, the Community Patch is only intended to fix bugs and errors in the base game. Your report should not ask for:
+
+        * New content (new quests, missions, characters, items, etc)
+        * Balance changes (outside of correcting obvious errors)
+        * Any tweaks that are not inkeeping with the original vision for game
+  - type: dropdown
+    id: dlcs
+    attributes:
+      label: Which DLC(s) do you have installed?
+      multiple: true
+      options:
+        - Shattered Space
+    validations:
+      required: false
+  - type: dropdown
+    id: category
+    attributes:
+      label: Which category represents the issue you are reporting?
+      description: If your issue falls into more than one category, pick the one you feel is most revelant.
+      options:
+        - Animations (Relates to animations)
+        - Audio (Relates to music, sound effects or voice acting)
+        - Interface (Relates to the game UI.)
+        - Items (Relates to items e.g. weapons, food, clothing)
+        - Locations (Relates to interior or exterior locations)
+        - Meshes (Relates to 3D models)
+        - Missions & Dialogue (Relates to missions (quests), NPC dialogue or player dialogue options)
+        - NPCs (Relates to non-player characters (NPCs))
+        - Outposts (Relates to building outposts)
+        - Perks & Skills (Relates to character perks or skills)
+        - Placed Objects (Relates to any item placed into the world)
+        - Scripts (Relates to scripted elements)
+        - Ships (Related to spaceship components or ship interactions)
+        - Textures (Relates to textures)
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Summary
+      description: Describe the issue as clearly and concisely as possible.
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Provide any technical details such as item IDs, quest IDs and stage numbers
+  - type: input
+    id: version
+    attributes:
+      label: Game Version
+      placeholder: eg. 1.10.0
+    validations:
+      required: true
+  - type: dropdown
+    id: new-game
+    attributes:
+      label: Have you recreated this issue on a new game?
+      multiple: false
+      options:
+        - 'No'
+        - 'Yes'
+    validations:
+      required: true
+  - type: textarea
+    id: recreate
+    attributes:
+      label: What are the steps to recreate it?
