@@ -1,32 +1,32 @@
 'DLC: Shattered Space':
-    - '/(Which DLC(s) do you have installed?\n\n.*Shattered Space.*\n\n###)/g'
+    - '/(Which DLC\(s\) do you have installed\?\n\n.*Shattered Space.*\n\n###)/g'
 'Platform: PC (Steam)':
-    - '/(Which platform are you playing on?\n\nPC (Steam)\n\n###)/g'
+    - '/(Which platform are you playing on\?\n\nPC \(Steam\)\n\n###)/g'
 'Type: Animations':
-    - '/(Which category represents the issue you are reporting?\n\nAnimations.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nAnimations.*\n\n###)/g'
 'Type: Audio':
-    - '/(Which category represents the issue you are reporting?\n\nAudio.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nAudio.*\n\n###)/g'
 'Type: Interface':
-    - '/(Which category represents the issue you are reporting?\n\nInterface.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nInterface.*\n\n###)/g'
 'Type: Items':
-    - '/(Which category represents the issue you are reporting?\n\nItems.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nItems.*\n\n###)/g'
 'Type: Locations':
-    - '/(Which category represents the issue you are reporting?\n\nLocations.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nLocations.*\n\n###)/g'
 'Type: Meshes':
-    - '/(Which category represents the issue you are reporting?\n\nMeshes.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nMeshes.*\n\n###)/g'
 'Type: Missions & Dialogue':
-    - '/(Which category represents the issue you are reporting?\n\nMissions & Dialogue.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nMissions & Dialogue.*\n\n###)/g'
 'Type: NPCs':
-    - '/(Which category represents the issue you are reporting?\n\nNPCs.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nNPCs.*\n\n###)/g'
 'Type: Outposts':
-    - '/(Which category represents the issue you are reporting?\n\nOutposts.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nOutposts.*\n\n###)/g'
 'Type: Perks & Skills':
-    - '/(Which category represents the issue you are reporting?\n\nPerks & Skills.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nPerks & Skills.*\n\n###)/g'
 'Type: Placed Objects':
-    - '/(Which category represents the issue you are reporting?\n\nPlaced Objects.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nPlaced Objects.*\n\n###)/g'
 'Type: Scripts':
-    - '/(Which category represents the issue you are reporting?\n\nScripts.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nScripts.*\n\n###)/g'
 'Type: Ships':
-    - '/(Which category represents the issue you are reporting?\n\nShips.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nShips.*\n\n###)/g'
 'Type: Textures':
-    - '/(Which category represents the issue you are reporting?\n\nTextures.*\n\n###)/g'
+    - '/(Which category represents the issue you are reporting\?\n\nTextures.*\n\n###)/g'
