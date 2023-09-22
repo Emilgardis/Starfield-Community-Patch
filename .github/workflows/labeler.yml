@@ -11,7 +11,7 @@ jobs:
   triage:
     runs-on: ubuntu-latest
     steps:
-    - uses: github/issue-labeler@v3.1 #May not be the latest version
+    - uses: github/issue-labeler@v3.2
       with:
         repo-token: ${{ github.token }}
         configuration-path: .github/labeler.yml
