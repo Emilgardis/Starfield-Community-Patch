@@ -1,0 +1,32 @@
+'DLC: Shattered Space':
+    - 'Which DLC(s) do you have installed?\n\n.*Shattered Space.*\n###'
+'Platform: PC (Steam)':
+    - 'Which platform are you playing on?\n\nPC (Steam)\n###'
+'Type: Animations':
+    - 'Which category represents the issue you are reporting?\n\nAnimations.*\n###'
+'Type: Audio':
+    - 'Which category represents the issue you are reporting?\n\nAudio.*\n###'
+'Type: Interface':
+    - 'Which category represents the issue you are reporting?\n\nInterface.*\n###'
+'Type: Items':
+    - 'Which category represents the issue you are reporting?\n\nItems.*\n###'
+'Type: Locations':
+    - 'Which category represents the issue you are reporting?\n\nLocations.*\n###'
+'Type: Meshes':
+    - 'Which category represents the issue you are reporting?\n\nMeshes.*\n###'
+'Type: Missions & Dialogue':
+    - 'Which category represents the issue you are reporting?\n\nMissions & Dialogue.*\n###'
+'Type: NPCs':
+    - 'Which category represents the issue you are reporting?\n\nNPCs.*\n###'
+'Type: Outposts':
+    - 'Which category represents the issue you are reporting?\n\nOutposts.*\n###'
+'Type: Perks & Skills':
+    - 'Which category represents the issue you are reporting?\n\nPerks & Skills.*\n###'
+'Type: Placed Objects':
+    - 'Which category represents the issue you are reporting?\n\nPlaced Objects.*\n###'
+'Type: Scripts':
+    - 'Which category represents the issue you are reporting?\n\nScripts.*\n###'
+'Type: Ships':
+    - 'Which category represents the issue you are reporting?\n\nShips.*\n###'
+'Type: Textures':
+    - 'Which category represents the issue you are reporting?\n\nTextures.*\n###'
