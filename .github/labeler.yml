@@ -1,32 +1,32 @@
 'DLC: Shattered Space':
-    - 'Which DLC(s) do you have installed?\n\n.*Shattered Space.*\n###'
+    - 'Which DLC(s) do you have installed?\n\n.*Shattered Space.*\n\n###'
 'Platform: PC (Steam)':
-    - 'Which platform are you playing on?\n\nPC (Steam)\n###'
+    - 'Which platform are you playing on?\n\nPC (Steam)\n\n###'
 'Type: Animations':
-    - 'Which category represents the issue you are reporting?\n\nAnimations.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nAnimations.*\n\n###'
 'Type: Audio':
-    - 'Which category represents the issue you are reporting?\n\nAudio.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nAudio.*\n\n###'
 'Type: Interface':
-    - 'Which category represents the issue you are reporting?\n\nInterface.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nInterface.*\n\n###'
 'Type: Items':
-    - 'Which category represents the issue you are reporting?\n\nItems.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nItems.*\n\n###'
 'Type: Locations':
-    - 'Which category represents the issue you are reporting?\n\nLocations.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nLocations.*\n\n###'
 'Type: Meshes':
-    - 'Which category represents the issue you are reporting?\n\nMeshes.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nMeshes.*\n\n###'
 'Type: Missions & Dialogue':
-    - 'Which category represents the issue you are reporting?\n\nMissions & Dialogue.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nMissions & Dialogue.*\n\n###'
 'Type: NPCs':
-    - 'Which category represents the issue you are reporting?\n\nNPCs.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nNPCs.*\n\n###'
 'Type: Outposts':
-    - 'Which category represents the issue you are reporting?\n\nOutposts.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nOutposts.*\n\n###'
 'Type: Perks & Skills':
-    - 'Which category represents the issue you are reporting?\n\nPerks & Skills.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nPerks & Skills.*\n\n###'
 'Type: Placed Objects':
-    - 'Which category represents the issue you are reporting?\n\nPlaced Objects.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nPlaced Objects.*\n\n###'
 'Type: Scripts':
-    - 'Which category represents the issue you are reporting?\n\nScripts.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nScripts.*\n\n###'
 'Type: Ships':
-    - 'Which category represents the issue you are reporting?\n\nShips.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nShips.*\n\n###'
 'Type: Textures':
-    - 'Which category represents the issue you are reporting?\n\nTextures.*\n###'
+    - 'Which category represents the issue you are reporting?\n\nTextures.*\n\n###'
